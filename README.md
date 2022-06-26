@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Layan 
 
-<!--
-**LayanOliveira/LayanOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/layan-oliveira-xi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/OliveiraLayan)
+
+[Instagram](https://www.instagram.com/layanoliveira/)
+
+<br/>
+
+<img align="left" alt="Layan Oliveira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LayanOliveira&show_icons=true&theme=radical&hide_border=true">
+
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayanOliveira&layout=compact&theme=radical)](https://github.com/LayanOliveira/github-readme-stats)
+
+<!-- ### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e42a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
+[<img align="left" alt="" width="26px" src="" />][webdevplaylist] -->
