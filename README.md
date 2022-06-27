@@ -37,8 +37,13 @@
 </div>
 
 <div align="center">
+<<<<<<< HEAD
 
   <!-- ![Snake animation](https://github.com/LayanOliveira/LayanOliveira/blob/output/github-contribution-grid-snake.svg) -->
+=======
+  
+  ![Snake animation](https://github.com/LayanOliveira/LayanOliveira/blob/output/github-contribution-grid-snake.svg)
+>>>>>>> 5a548ccb92fc2cb71916da2d1c845fe55d011b9b
   
 </div>
 
