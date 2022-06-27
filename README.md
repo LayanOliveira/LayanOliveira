@@ -38,12 +38,11 @@
 
 <div align="center">
 
-  <!-- ![Snake animation](https://github.com/LayanOliveira/LayanOliveira/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/LayanOliveira/LayanOliveira/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
 <div align="center">
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Stats: Anurag Hazra</a> e <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak: DenverCoder1</a>
-   <!-- <a href="https://github.com/Platane/snk">Platane</a> -->
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Stats: Anurag Hazra</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak: DenverCoder1</a> e <a href="https://github.com/Platane/snk">Snake: Platane</a>
    </p>
 </div>
