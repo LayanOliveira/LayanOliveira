@@ -5,6 +5,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LayanOliveira&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanOliveira&theme=radical&hide_border=false&&layout=compact"/>
   </a>
+  <a href="https://github.com/LayanOliveira"><img height="150em" src="//github-readme-streak-stats.herokuapp.com?user=LayanOliveira&theme=radical&date_format=j%2Fn%5B%2FY%5D">
 </div>
 
 <div align="center" valign="top"><br>
@@ -36,11 +37,13 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+  <!-- ![Snake animation](https://github.com/LayanOliveira/LayanOliveira/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
 
 <div align="center">
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="">Cobrinha</a></p>
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+   <!--<a href="https://github.com/Platane/snk">Platane</a> -->
+   </p>
 </div>
