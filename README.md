@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Stats: Anurag Hazra</a> e <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak: DenverCoder1</a>
    <!-- <a href="https://github.com/Platane/snk">Platane</a> -->
    </p>
 </div>
