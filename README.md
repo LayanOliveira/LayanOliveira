@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/LayanOliveira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LayanOliveira&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanOliveira&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LayanOliveira&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayanOliveira&theme=radical&hide_border=true&&layout=compact"/>
   </a>
-  <a href="https://github.com/LayanOliveira"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=LayanOliveira&theme=radical&date_format=j%2Fn%5B%2FY%5D">
+  <a href="https://github.com/LayanOliveira"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=LayanOliveira&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
 </div>
 
 <div align="center" valign="top"><br>
