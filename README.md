@@ -37,7 +37,7 @@
 <div align="center">
   <a href="mailto:layan3210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/layan-oliveira-xi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/OliveiraLayan" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Flynxmon69" target="_blank"></a>
+  <a href="https://twitter.com/lynxmon69" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Flynxmon69" target="_blank"></a>
   <a href="https://www.instagram.com/layanoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.youtube.com/channel/UCrodMFdpDkI1H5eRth1ngRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <!-- <a href="https://www.twitch.tv/nayaltv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
