@@ -23,8 +23,8 @@
   <img align="center" alt="Angular" height="32" width="32" src="assets/angular.png">
   <!-- <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
   <!-- <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> -->
-<!--   <img align="center" alt="Markdown" height="48" width="40" src="assets/markdown.png"> -->
-  <img align="center" alt="Markdown" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Markdown" height="47" width="40" src="assets/markdown.png">
+<!--   <img align="center" alt="Markdown" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg"> -->
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="35" width="35" src="assets/GitHub.png">
